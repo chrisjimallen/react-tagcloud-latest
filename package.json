@@ -33,6 +33,7 @@
     "testEnvironment": "jsdom"
   },
   "dependencies": {
+    "babel": "^6.23.0",
     "prop-types": "^15.6.2",
     "randomcolor": "^0.6.2",
     "seedrandom": "^3.0.5",
