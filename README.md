@@ -173,3 +173,7 @@ and open browser at `http://localhost:3000`
 ## License
 
 [MIT License](https://github.com/madox2/react-tagcloud/blob/master/LICENSE)
+
+## Credits
+
+This project is based on the work of [madox2](https://github.com/madox2/react-tagcloud). I thank them for their amazing contribution.

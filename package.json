@@ -1,14 +1,15 @@
 {
-  "name": "react-tagcloud",
-  "version": "2.3.1",
-  "description": "Tag/word cloud component for react",
+  "name": "react-tagcloud-latest",
+  "version": "1.0.0",
+  "description": "Tag/word cloud component for react 18 and upwards",
   "keywords": [
     "react-tagcloud",
     "react",
     "tag-cloud",
     "word-cloud",
     "tagcloud",
-    "wordcloud"
+    "wordcloud",
+    "react-18"
   ],
   "main": "lib/index.js",
   "scripts": {
@@ -18,14 +19,14 @@
     "test": "jest",
     "lint": "eslint src/**/*.js __tests__/**/*.js"
   },
-  "author": "madox2",
+  "author": "chrisjimallen",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/madox2/react-tagcloud/blob/master/LICENSE"
+    "url": "https://github.com/chrisjimallen/react-tagcloud-latest/blob/master/LICENSE"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/madox2/react-tagcloud.git"
+    "url": "https://github.com/chrisjimallen/react-tagcloud-latest.git"
   },
   "jest": {
     "testRegex": "(/__tests__/.*-test)\\.js?$",
@@ -38,7 +39,7 @@
     "shuffle-array": "^1.0.1"
   },
   "peerDependencies": {
-    "react": ">=16.8.0"
+    "react": ">=18.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",
